@@ -5,12 +5,12 @@
 # "language: es" Sopporte Gherkin para sintaxis en español
 # language: es
 # encoding: utf-8
-@univalle.edu
+@univalle
 @admision 
 Característica: Admision
 
 #Tab Admisión - Por que estudiar en Univalle?
-@univalle.edu
+@univalle
 Escenario: Verificacion de "¿Por qué Estudiar en Univalle?"
 Dado Se posa sobre el tab "Admisión"
 Cuando Se hace click sobre el tab "¿Por qué Estudiar en Univalle?"
@@ -20,7 +20,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Admisión - Traspasos y Convalidaciones
-@univalle.edu 
+@univalle 
 Escenario: Verificacion de "Traspasos y Convalidaciones"
 Dado Se posa sobre el tab "Admisión"
 Cuando Se hace click sobre el tab "Traspasos y Convalidaciones"
@@ -33,7 +33,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Admisión -  Requisitos para Estudiantes Internacionales
-@univalle.edu @test
+@univalle @test
 Escenario: Verificacion de "Requisitos para Estudiantes Internacionales"
 Dado Se posa sobre el tab "Admisión"
 Cuando Se hace click sobre el tab "Requisitos para Estudiantes Internacionales"
@@ -51,7 +51,7 @@ Entonces Se muestra la seccion "Bienestar Universitario Unidad de Control de Doc
   * Se muestra la seccion de Noticias
 
 #Tab Admisión -  Requisitos para Estudiantes Nacionales
-@univalle.edu 
+@univalle 
 Escenario: Verificacion de " Requisitos para Estudiantes Nacionales"
 Dado Se posa sobre el tab "Admisión"
 Cuando Se hace click sobre el tab "Requisitos para Estudiantes Nacionales"
@@ -61,7 +61,7 @@ Entonces Deberia mostrarse la ruta "Requisitos para Estudiantes Nacionales"
   * Se muestra la seccion de Noticias
 
 #Tab Admisión -  Calendario Académico
-@univalle.edu 
+@univalle 
 Escenario: Verificacion de "Calendario Académico"
 Dado Se posa sobre el tab "Admisión"
 Cuando Se hace click sobre el tab "Calendario Académico"
@@ -71,7 +71,7 @@ Entonces Deberia mostrarse la ruta "Calendario Académico"
   * Se muestra la seccion de Noticias
 
 #Tab Admisión - Trámites
-@univalle.edu 
+@univalle 
 Escenario: Verificacion de "Trámites"
 Dado Se posa sobre el tab "Admisión"
 Cuando Se hace click sobre el tab "Trámites"

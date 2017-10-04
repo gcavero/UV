@@ -4,12 +4,12 @@
     
 # "language: es" Sopporte Gherkin para sintaxis en español
 # language: es
-@univalle.edu 
+@univalle 
 @contacto
 Característica: Contacto
 
 #Tab Contacto - Medios de Contacto
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Medios de Contacto"
 Dado Se posa sobre el tab "Contacto"
 Cuando Se hace click sobre el tab "Medios de Contacto"
@@ -24,7 +24,7 @@ Entonces Deberia mostrarse la ruta "Medios de Contacto"
   * Se muestra la seccion de Noticias
 
 #Tab Contacto - Solicitud de Información
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Solicitud de Información"
 Dado Se posa sobre el tab "Contacto"
 Cuando Se hace click sobre el tab "Solicitud de Información"
@@ -32,7 +32,7 @@ Entonces Deberia mostrarse la ruta "Solicitud de Información"
   Y Se muestra la seccion de Noticias
 
 #Tab Contacto - Oficinas en Bolivia
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Oficinas en Bolivia"
 Dado Se posa sobre el tab "Contacto"
 Cuando Se hace click sobre el tab "Oficinas en Bolivia"
@@ -44,13 +44,13 @@ Entonces Deberia mostrarse la ruta "Oficinas en Bolivia"
   * Se muestra la seccion de Noticias
 
 #Tab Contacto - Guía Telefónica Univalle
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Guía Telefónica Univalle"
 Dado Se posa sobre el tab "Contacto"
 Cuando Se hace click sobre el tab "Guía Telefónica Univalle"
 Entonces Deberia mostrarse la ruta "Guía Telefónica Univalle"
 
-@univalle.edu 
+@univalle 
 Escenario: Verificacion seccion "Campus Tiquipaya"
 Dado Se posa sobre el tab "Contacto"
 Cuando Se hace click sobre el tab "Guía Telefónica Univalle"

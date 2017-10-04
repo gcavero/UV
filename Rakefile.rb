@@ -15,7 +15,7 @@ end
 
 # Task to execute a feature with specified tag and have basic cucumber report
 # @param tag, String, Represent the tag name to execute
-task :execute, [:tag] do |_t, arg|
+task :run, [:tag] do |_t, arg|
   system "cucumber -f json -o #{report_path}/#{arg[:tag]}.json -f html -o #{report_path}/"\
          "#{arg[:tag]}.html -t @#{arg[:tag]}"
 end

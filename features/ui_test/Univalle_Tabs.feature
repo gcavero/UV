@@ -4,7 +4,7 @@
     
 # "language: es" Sopporte Gherkin para sintaxis en español
 # language: es
-@univalle.edu @univalleTabs
+@univalle @univalleTabs
 Característica: Univalle.edu Inicio
 de la pagina principal de univalle.edu
 

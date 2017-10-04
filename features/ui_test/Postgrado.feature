@@ -4,11 +4,11 @@
     
 # "language: es" Sopporte Gherkin para sintaxis en español
 # language: es
-@univalle.edu @postgrado
+@univalle @postgrado
 Característica: Postgrado
 
 #Tab Postgrado - Cochabamba - Programas - Diplomados
-@univalle.edu
+@univalle
 Escenario: Verificacion "Área Ciencias de la Educación"
 Dado Se posa sobre el tab "Postgrado"
 Cuando Se posa sobre el tab "Cochabamba"
@@ -19,7 +19,7 @@ Entonces Deberia mostrarse la ruta "Diplomados"
   * Se muestra la seccion de redes sociales
 
 #Tab Postgrado - Cochabamba - Programas - Doctorados
-@univalle.edu
+@univalle
 Escenario: Verificacion "Doctorados"
 Dado Se posa sobre el tab "Postgrado"
 Cuando Se posa sobre el tab "Cochabamba"
@@ -30,7 +30,7 @@ Entonces Deberia mostrarse la ruta "Doctorados"
   * Se muestra la seccion de redes sociales
 
 #Tab Postgrado - Cochabamba - Programas - Maestrias
-@univalle.edu
+@univalle
 Escenario: Verificacion "Maestrias"
 Dado Se posa sobre el tab "Postgrado"
 Cuando Se posa sobre el tab "Cochabamba"
@@ -41,7 +41,7 @@ Entonces Deberia mostrarse la ruta "Maestrias"
   * Se muestra la seccion de redes sociales
 
 #Tab Postgrado - Cochabamba - Programas - Programa CAF
-@univalle.edu
+@univalle
 Escenario: Verificacion "Programa CAF"
 Dado Se posa sobre el tab "Postgrado"
 Cuando Se posa sobre el tab "Cochabamba"
@@ -52,7 +52,7 @@ Entonces Deberia mostrarse la ruta "Programa CAF"
   * Se muestra la seccion de redes sociales
 
 #Tab Postgrado - Cochabamba - Admisiones
-@univalle.edu
+@univalle
 Escenario: Verificacion "Admisiones"
 Dado Se posa sobre el tab "Postgrado"
 Cuando Se posa sobre el tab "Cochabamba"
@@ -62,7 +62,7 @@ Entonces Deberia mostrarse la ruta "Admisiones"
   * Se muestra la seccion de redes sociales
 
 #Tab Postgrado - Cochabamba - Revista Postgrado
-@univalle.edu
+@univalle
 Escenario: Verificacion "Revista Postgrado"
 Dado Se posa sobre el tab "Postgrado"
 Cuando Se posa sobre el tab "Cochabamba"
@@ -72,7 +72,7 @@ Entonces Deberia mostrarse la ruta "Revista Postgrado"
   * Se muestra la seccion de redes sociales
 
 #Tab Postgrado - Cochabamba - Convenios
-@univalle.edu
+@univalle
 Escenario: Verificacion "Convenios"
 Dado Se posa sobre el tab "Postgrado"
 Cuando Se posa sobre el tab "Cochabamba"
@@ -82,7 +82,7 @@ Entonces Deberia mostrarse la ruta "Convenios"
   * Se muestra la seccion de redes sociales
 
 #Tab Postgrado - Cochabamba - Personal de Postgrado
-@univalle.edu
+@univalle
 Escenario: Verificacion "Personal de Postgrado"
 Dado Se posa sobre el tab "Postgrado"
 Cuando Se posa sobre el tab "Cochabamba"

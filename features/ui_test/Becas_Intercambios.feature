@@ -4,12 +4,12 @@
     
 # "language: es" Sopporte Gherkin para sintaxis en español
 # language: es
-@univalle.edu 
+@univalle 
 @becasIntercambios
 Característica: Becas e Intercambios
 
 #Tab Becas e Intercambios - Membresias
-@univalle.edu 
+@univalle 
 Escenario: Verificacion de "Membresias"
 Dado Se posa sobre el tab "Becas e Intercambios"
 Cuando Se hace click sobre el tab "Membresias"
@@ -19,7 +19,7 @@ Entonces Deberia mostrarse la ruta "Membresias"
   * Se muestra la seccion de Noticias
 
 #Tab Becas e Intercambios - Convenios
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Convenios"
 Dado Se posa sobre el tab "Becas e Intercambios"
 Cuando Se hace click sobre el tab "Convenios"
@@ -36,7 +36,7 @@ Entonces Deberia mostrarse la ruta "Convenios"
   * Se muestra la seccion de Noticias
 
 #Tab Becas e Intercambios - Intercambio Estudiantil
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Intercambio Estudiantil "
 Dado Se posa sobre el tab "Becas e Intercambios"
 Cuando Se hace click sobre el tab "Intercambio Estudiantil 2018"
@@ -55,7 +55,7 @@ Entonces Deberia mostrarse la ruta "Intercambio Estudiantil 2018"
   * Se muestra la seccion de Noticias
 
 #Tab Becas e Intercambios - Becas
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Becas"
 Dado Se posa sobre el tab "Becas e Intercambios"
 Cuando Se hace click sobre el tab "Becas"
@@ -66,7 +66,7 @@ Entonces Deberia mostrarse la ruta "Becas"
   * Se muestra la seccion de Noticias
 
 #Tab Becas e Intercambios - Pasantías
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Pasantías"
 Dado Se posa sobre el tab "Becas e Intercambios"
 Cuando Se hace click sobre el tab "Pasantías"
@@ -82,7 +82,7 @@ Entonces Deberia mostrarse la ruta "Pasantías"
   * Se muestra la seccion de Noticias
 
 #Tab Becas e Intercambios - Renovación de Becas
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Renovación de Becas"
 Dado Se posa sobre el tab "Becas e Intercambios"
 Cuando Se hace click sobre el tab "Renovación de Becas"

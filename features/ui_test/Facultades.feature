@@ -4,11 +4,11 @@
     
 # "language: es" Sopporte Gherkin para sintaxis en español
 # language: es
-@univalle.edu @facultades
+@univalle @facultades
 Característica: Facultades 
 
 #Tab Facultades - Arquitectura y Turismo
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Arquitectura y Turismo"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se hace click sobre el tab "Arquitectura y Turismo"
@@ -22,7 +22,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Arquitectura y Urbanismo
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Arquitectura y Urbanismo"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Arquitectura y Turismo"
@@ -40,7 +40,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Lic. en Turismo y Hotelería
-@univalle.edu 
+@univalle 
 Escenario: Verificacion de "Arquitectura y Urbanismo"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Arquitectura y Turismo"
@@ -60,7 +60,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Lic. en Diseño de Interiores y Paisajismo
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Lic. en Diseño de Interiores y Paisajismo"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Arquitectura y Turismo"
@@ -81,7 +81,7 @@ Entonces Se muestra la seccion de redes sociales
 
 
 #Tab Facultades - Lic. en Gastronomía
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Lic. en Gastronomía"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Arquitectura y Turismo"
@@ -101,7 +101,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Ciencias de la Salud
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ciencias de la Salud"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se hace click sobre el tab "Ciencias de la Salud"
@@ -116,7 +116,7 @@ Entonces Se muestra la seccion de redes sociales
 
 
 #Tab Facultades - Medicina
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Medicina"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Ciencias de la Salud"
@@ -136,7 +136,7 @@ Entonces Se muestra la seccion de redes sociales
 
 
 #Tab Facultades - Odontología
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Odontología"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Ciencias de la Salud"
@@ -156,7 +156,7 @@ Entonces Se muestra la seccion de redes sociales
 
 
 #Tab Facultades - Lic. en Bioquímica y Farmacia
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Lic. en Bioquímica y Farmacia"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Ciencias de la Salud"
@@ -174,7 +174,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Lic. en Fisioterapia y Kinesiología
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Lic. en Fisioterapia y Kinesiología"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Ciencias de la Salud"
@@ -193,7 +193,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Ciencias Empresariales y Sociales
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ciencias Empresariales y Sociales"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se hace click sobre el tab "Ciencias Empresariales y Sociales"
@@ -208,7 +208,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Lic. en Administración de Empresas
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Lic. en Administración de Empresas"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Ciencias Empresariales y Sociales"
@@ -227,7 +227,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Lic. en Comercio Internacional
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ing. en Comercio Internacional"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Ciencias Empresariales y Sociales"
@@ -247,7 +247,7 @@ Entonces Se muestra la seccion de redes sociales
 
 
 #Tab Facultades - Ingeniería Comercial
-@univalle.edu 
+@univalle 
 Escenario: Verificacion " Ing. Comercial"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Ciencias Empresariales y Sociales"
@@ -266,7 +266,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Lic. en Comunicación y Periodismo
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Lic. en Comunicación y Periodismo"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Ciencias Empresariales y Sociales"
@@ -285,7 +285,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Lic. en Derecho y Ciencias Jurídicas
-@univalle.edu
+@univalle
 Escenario: Verificacion "Lic. en Derecho y Ciencias Jurídicas"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Ciencias Empresariales y Sociales"
@@ -305,7 +305,7 @@ Entonces Se muestra la seccion de redes sociales
 
 
 #Tab Facultades - Informática y Electrónica
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Informática y Electrónica"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se hace click sobre el tab "Informática y Electrónica"
@@ -320,7 +320,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Ingeniería de Sistemas Informáticos
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ingeniería de Sistemas Informáticos"
 Dado Se posa sobre el tab "Facultades"
   Y Se posa sobre el tab "Informática y Electrónica"
@@ -339,7 +339,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Ing. Electrónica
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ing. Electrónica"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Informática y Electrónica"
@@ -358,7 +358,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Ing. Electrónica y de Sistemas
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ing. Electrónica y de Sistemas"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Informática y Electrónica"
@@ -377,7 +377,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Ing. de Telecomunicaciones
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ing. de Telecomunicaciones"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Informática y Electrónica"
@@ -396,7 +396,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Ing. Biomédica
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ing. Biomédica"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Informática y Electrónica"
@@ -415,7 +415,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades - Tecnología
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Tecnología"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se hace click sobre el tab "Tecnología"
@@ -432,7 +432,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades -  Ing. de Petróleo, Gas y Energías
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ing. de Petróleo, Gas y Energías"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Tecnología"
@@ -451,7 +451,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades -  Ing. Civil
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ing. Civil"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Tecnología"
@@ -470,7 +470,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades -  Ing. en Industrias Alimentarias
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ing. en Industrias Alimentarias"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Tecnología"
@@ -489,7 +489,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades -  Ing. Industrial
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ing. Industrial"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Tecnología"
@@ -508,7 +508,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades -  Ing. Industrial y de Sistemas
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ing. Industrial y de Sistemas"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Tecnología"
@@ -527,7 +527,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades -  Ing. Electromecánica
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ing. Electromecánica"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Tecnología"
@@ -546,7 +546,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades -  Ing. Mecatrónica
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ing. Mecatrónica"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Tecnología"
@@ -564,7 +564,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Facultades -  Ing. Aeronáutica
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Ing. Aeronáutica"
 Dado Se posa sobre el tab "Facultades"
 Cuando Se posa sobre el tab "Tecnología"

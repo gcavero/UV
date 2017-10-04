@@ -19,14 +19,15 @@ After do |scenario|
 end
 
 #This Hook logs in to Hybrid application using administrator credentials.
-Before '@univalle.edu' do
-  puts "http://#{$uv_home}"
+# Before '@univalle' do
+Before do |scenario|
+  puts "http://#{$uv_home}"  
   page.driver.browser.manage.window.maximize
   
-  max_retries = 5
+  max_retries = 2
   times_retried = 0
   begin
-    visit "http://#{$uv_home}"
+    visit "http://#{$uv_home}"  
     sleep(3)
   rescue Net::ReadTimeout => error
     if times_retried < max_retries

@@ -4,7 +4,7 @@
     
 # "language: es" Sopporte Gherkin para sintaxis en español
 # language: es
-@univalle.edu 
+@univalle 
 @laUniversidad
 Característica: La Universidad 
 
@@ -12,7 +12,7 @@ Característica: La Universidad
 # Dado Se visita la pagina de univalle.edu
 
 #Tab La Universidad - Bienvenida del Rector
-@univalle.edu
+@univalle
 Escenario: Verificacion "Bienvenida del Rector"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se hace click sobre el tab "Bienvenida del Rector"
@@ -22,7 +22,7 @@ Entonces Deberia mostrarse la ruta "Bienvenida del Rector"
   Y Se muestra la seccion "Ing. M.Sc. Gonzalo Ruiz Martínez"
 
 #Tab La Universidad - Acreditaciones
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Acreditaciones"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se hace click sobre el tab "Acreditaciones"
@@ -35,7 +35,7 @@ Entonces Deberia mostrarse la ruta "Acreditaciones"
   Y Se muestra la seccion de redes sociales
 
 #Tab La Universidad - Infraestructura
-@univalle.edu
+@univalle
 Escenario: Verificacion "Infraestructura"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se hace click sobre el tab "Infraestructura"
@@ -44,7 +44,7 @@ Entonces Deberia mostrarse la ruta "Infraestructura"
   * Se muestra la seccion de redes sociales
 
 #Tab La Universidad - Bibliotecas
-@univalle.edu
+@univalle
 Escenario: Verificacion "Bibliotecas"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se hace click sobre el tab "Bibliotecas"
@@ -57,7 +57,7 @@ Entonces Deberia mostrarse la ruta "Bibliotecas"
   * Se muestra la seccion "GALERIA DE FOTOS - BIBLIOTECAS UNIVALLE"
   * Se muestra la seccion de redes sociales
 
-@univalle.edu
+@univalle
 Escenario: Verificacion "Biblioteca Virtual"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se posa sobre el tab "Bibliotecas"
@@ -69,7 +69,7 @@ Entonces Deberia mostrarse la ruta "Biblioteca Virtual"
     |Acceso a los recursos|
   Y Se muestra la seccion de redes sociales
 
-@univalle.edu
+@univalle
 Escenario: Verificacion "Descargas"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se posa sobre el tab "Bibliotecas"
@@ -77,7 +77,7 @@ Cuando Se posa sobre el tab "Bibliotecas"
 Entonces Deberia mostrarse la ruta "Descargas"
 
 #Tab La Universidad - Interacción Social
-@univalle.edu
+@univalle
 Escenario: Verificacion "Interacción Social"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se hace click sobre el tab "Interacción Social"
@@ -89,7 +89,7 @@ Entonces Deberia mostrarse la ruta "Interacción Social"
     |Departamento de Deportes|
   Y Se muestra la seccion de redes sociales
 
-@univalle.edu
+@univalle
 Escenario: Verificacion "Objetivo, Dir., Unidades y Funciones"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se posa sobre el tab "Interacción Social"
@@ -98,7 +98,7 @@ Entonces Deberia mostrarse la ruta "Objetivo, Dir., Unidades y Funciones"
   Y Se muestra el titulo "Objetivo, Dirección, Unidades y Funciones"
   * Se muestra la seccion de redes sociales
 
-@univalle.edu
+@univalle
 Escenario: Verificacion "Interacción Social y Difusión Cultural"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se posa sobre el tab "Interacción Social"
@@ -107,14 +107,14 @@ Entonces Deberia mostrarse la ruta "Interacción Social y Difusión Cultural"
   Y Se muestra el titulo "Bases para la Interacción Social y Difusión Cultural"
   * Se muestra la seccion de redes sociales
 
-@univalle.edu
+@univalle
 Escenario: Verificacion "Agenda Cultural"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se posa sobre el tab "Interacción Social"
   * Se hace click sobre el tab "Agenda Cultural"
 Entonces Deberia mostrarse la ruta "Agenda Cultural"
 
-@univalle.edu
+@univalle
 Escenario: Verificacion "Requisitos Becas"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se posa sobre el tab "Interacción Social"
@@ -122,7 +122,7 @@ Cuando Se posa sobre el tab "Interacción Social"
 Entonces Deberia mostrarse la ruta "Requisitos Becas"
 
 #Tab La Universidad - Bienestar Universitario
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Bienestar Universitario"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se hace click sobre el tab "Bienestar Universitario"
@@ -130,7 +130,7 @@ Entonces Deberia mostrarse la ruta "Bienestar Universitario"
   Y Se muestra el titulo "Bienestar Universitario"
   * Se muestra la seccion de redes sociales
 
-@univalle.edu
+@univalle
 Escenario: Verificacion "Unidad de Control de Documentos"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se posa sobre el tab "Bienestar Universitario"
@@ -139,7 +139,7 @@ Entonces Deberia mostrarse la ruta "Unidad de Control de Documentos"
   Y Se muestra el titulo "Bienestar Universitario Unidad de Control de Documentos"
   * Se muestra la seccion de redes sociales
 
-@univalle.edu
+@univalle
 Escenario: Verificacion "Padres"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se posa sobre el tab "Bienestar Universitario"
@@ -148,7 +148,7 @@ Entonces Deberia mostrarse la ruta "Padres"
   Y Se muestra el titulo "Padres"
   * Se muestra la seccion de redes sociales
 
-@univalle.edu
+@univalle
 Escenario: Verificacion "Ex-Alumnos"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se posa sobre el tab "Bienestar Universitario"
@@ -157,7 +157,7 @@ Entonces Deberia mostrarse la ruta "Ex-Alumnos"
   Y Se muestra el titulo "Ex-Alumnos"
   * Se muestra la seccion de redes sociales
 
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Deportes"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se posa sobre el tab "Bienestar Universitario"
@@ -170,14 +170,14 @@ Entonces Deberia mostrarse la ruta "Unidad de Deportes"
     |ACTIVIDAD INTERNA|
   Y Se muestra la seccion de redes sociales
 
-@univalle.edu
+@univalle
 Escenario: Verificacion "Noticias Univalle"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se posa sobre el tab "Actualidad Informativa"
   Y Se hace click sobre el tab "Noticias Univalle"
 Entonces Deberia mostrarse la ruta "Noticias Univalle"
 
-@univalle.edu
+@univalle
 Escenario: Verificacion "Souvenirs"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se hace click sobre el tab "Souvenirs"
@@ -185,7 +185,7 @@ Entonces Deberia mostrarse la ruta "Souvenirs"
   Y Se muestra el titulo "Souvenirs"
   * Se muestra la seccion de redes sociales
 
-@univalle.edu
+@univalle
 Escenario: Verificacion "Boletín Digital"
 Dado Se posa sobre el tab "La Universidad"
 Cuando Se hace click sobre el tab "Boletín Digital"

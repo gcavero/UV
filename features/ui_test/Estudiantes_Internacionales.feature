@@ -4,11 +4,11 @@
     
 # "language: es" Sopporte Gherkin para sintaxis en español
 # language: es
-@univalle.edu @estudiantesInternacionales
+@univalle @estudiantesInternacionales
 Característica: Estudiantes Internacionales 
 
 #Tab Estudiantes Internacionales - Estudiar en Bolivia
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Estudiar en Bolivia"
 Dado Se posa sobre el tab "Estudiantes Internacionales"
 Cuando Se hace click sobre el tab "Estudiar en Bolivia"
@@ -18,7 +18,7 @@ Entonces Deberia mostrarse la ruta "Estudiar en Bolivia"
   * Se muestra la seccion de Noticias
 
 #Tab Estudiantes Internacionales - Servicios y Beneficios
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Servicios y Beneficios"
 Dado Se posa sobre el tab "Estudiantes Internacionales"
 Cuando Se hace click sobre el tab "Servicios y Beneficios"
@@ -29,7 +29,7 @@ Entonces Deberia mostrarse la ruta "Servicios y Beneficios"
   * Se muestra la seccion de Noticias
 
 #Tab Estudiantes Internacionales - Requisitos por 
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Requisitos por País"
 Dado Se posa sobre el tab "Estudiantes Internacionales"
 Cuando Se hace click sobre el tab "Requisitos por País"
@@ -46,7 +46,7 @@ Entonces Deberia mostrarse la ruta "Requisitos por País"
   * Se muestra la seccion de Noticias
 
 #Tab Estudiantes Internacionales - Representantes por País
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Representantes por País"
 Dado Se posa sobre el tab "Estudiantes Internacionales"
 Cuando Se hace click sobre el tab "Representantes por País"
@@ -61,7 +61,7 @@ Entonces Deberia mostrarse la ruta "Representantes por País"
   * Se muestra la seccion de Noticias
 
 #Tab Estudiantes Internacionales - Preguntas Frecuentes
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Preguntas Frecuentes"
 Dado Se posa sobre el tab "Estudiantes Internacionales"
 Cuando Se hace click sobre el tab "Preguntas Frecuentes"
@@ -81,7 +81,7 @@ Entonces Se muestra la seccion de redes sociales
 
 
 #Tab Estudiantes Internacionales - Testimonios
-@univalle.edu 
+@univalle 
 Escenario: Verificacion "Testimonios"
 Dado Se posa sobre el tab "Estudiantes Internacionales"
 Cuando Se hace click sobre el tab "Testimonios"
