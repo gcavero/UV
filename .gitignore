@@ -1,0 +1,4 @@
+## Archivo para ignorar ciertos elementos que no deben ser subidos al repositorio
+/reports/*.html
+/reports/*.json
+/screenshots/*.png
