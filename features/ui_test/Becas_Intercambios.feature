@@ -15,8 +15,8 @@ Dado Se posa sobre el tab "Becas e Intercambios"
 Cuando Se hace click sobre el tab "Membresias"
 Entonces Deberia mostrarse la ruta "Membresias"
   Y Se muestra el titulo "Membresias"
-  Y Se muestra la seccion de redes sociales
-  Y Se muestra la seccion de Noticias
+  * Se muestra la seccion de redes sociales
+  * Se muestra la seccion de Noticias
 
 #Tab Becas e Intercambios - Convenios
 @univalle.edu 
@@ -25,15 +25,15 @@ Dado Se posa sobre el tab "Becas e Intercambios"
 Cuando Se hace click sobre el tab "Convenios"
 Entonces Deberia mostrarse la ruta "Convenios"
   Y Se muestra el titulo "Convenios"
-  Y Se muestra la seccion "INSTITUCIONES GUBERNAMENTALES Y PÚBLICAS"
-  Y Se muestra la seccion "ORGANISMOS"
-  Y Se muestra la seccion "REDES UNIVERSITARIAS Y UNIVERSIDADES"
-  Y Se muestra la seccion "ONG'S, EMPRESAS, COOPERATIVAS, HOTELES, MEDIOS DE COMUNICACIÓN Y TRANSPORTE"
-  Y Se muestra la seccion "INSTITUCIONES DE SALUD Y HOSPITALES"
-  Y Se muestra la seccion "ASOCIACIONES E INSTITUCIONES DE PROFESIONALES"
-  Y Se muestra la seccion "INSTITUCIONES EDUCATIVAS"
-  Y Se muestra la seccion de redes sociales
-  Y Se muestra la seccion de Noticias
+  * Se muestra la seccion "INSTITUCIONES GUBERNAMENTALES Y PÚBLICAS"
+  * Se muestra la seccion "ORGANISMOS"
+  * Se muestra la seccion "REDES UNIVERSITARIAS Y UNIVERSIDADES"
+  * Se muestra la seccion "ONG'S, EMPRESAS, COOPERATIVAS, HOTELES, MEDIOS DE COMUNICACIÓN Y TRANSPORTE"
+  * Se muestra la seccion "INSTITUCIONES DE SALUD Y HOSPITALES"
+  * Se muestra la seccion "ASOCIACIONES E INSTITUCIONES DE PROFESIONALES"
+  * Se muestra la seccion "INSTITUCIONES EDUCATIVAS"
+  * Se muestra la seccion de redes sociales
+  * Se muestra la seccion de Noticias
 
 #Tab Becas e Intercambios - Intercambio Estudiantil
 @univalle.edu 
@@ -42,17 +42,17 @@ Dado Se posa sobre el tab "Becas e Intercambios"
 Cuando Se hace click sobre el tab "Intercambio Estudiantil 2018"
 Entonces Deberia mostrarse la ruta "Intercambio Estudiantil 2018"
   Y Se muestra el titulo "Programas de Intercambio Estudiantil"
-  Y Se muestra la seccion "PROGRAMA SOKA - JAPÓN"
-  Y Se muestra la seccion "MARCA MERCOSUR"
-  Y Se muestra la seccion "PROGRAMA UDUAL"
-  Y Se muestra la seccion "PROGRAMA CRISCOS"
-  Y Se muestra la seccion "PROGRAMA CONAHEC"
-  Y Se muestra la seccion "PROGRAMA EMUAL"
-  Y Se muestra la seccion "PROGRAMA ELAP - CANADA"
-  Y Se muestra la seccion "Información relevante para los estudiantes extranjeros que deseen estudiar en Univalle"
-  Y Se muestra la seccion "Universidades de Destino"
-  Y Se muestra la seccion de redes sociales
-  Y Se muestra la seccion de Noticias
+  * Se muestra la seccion "PROGRAMA SOKA - JAPÓN"
+  * Se muestra la seccion "MARCA MERCOSUR"
+  * Se muestra la seccion "PROGRAMA UDUAL"
+  * Se muestra la seccion "PROGRAMA CRISCOS"
+  * Se muestra la seccion "PROGRAMA CONAHEC"
+  * Se muestra la seccion "PROGRAMA EMUAL"
+  * Se muestra la seccion "PROGRAMA ELAP - CANADA"
+  * Se muestra la seccion "Información relevante para los estudiantes extranjeros que deseen estudiar en Univalle"
+  * Se muestra la seccion "Universidades de Destino"
+  * Se muestra la seccion de redes sociales
+  * Se muestra la seccion de Noticias
 
 #Tab Becas e Intercambios - Becas
 @univalle.edu 
@@ -61,9 +61,9 @@ Dado Se posa sobre el tab "Becas e Intercambios"
 Cuando Se hace click sobre el tab "Becas"
 Entonces Deberia mostrarse la ruta "Becas"
   Y Se muestra el boton Nuestras Becas
-  Y Se muestra el boton Becas OEA
-  Y Se muestra la seccion de redes sociales
-  Y Se muestra la seccion de Noticias
+  * Se muestra el boton Becas OEA
+  * Se muestra la seccion de redes sociales
+  * Se muestra la seccion de Noticias
 
 #Tab Becas e Intercambios - Pasantías
 @univalle.edu 
@@ -72,14 +72,14 @@ Dado Se posa sobre el tab "Becas e Intercambios"
 Cuando Se hace click sobre el tab "Pasantías"
 Entonces Deberia mostrarse la ruta "Pasantías"
   Y Se muestra el titulo "Pasantías"
-  Y Se muestra la seccion "Beneficios de recibir un estudiante Univalle"
-  Y Se muestra la seccion "Convenio interinstitucional (marco y pasantías)"
-  Y Se muestra la seccion "Convenio de cooperación marco en pasantías"
-  Y Se muestra la seccion "Convenio específico de trabajo dirigido (modalidad de titulación)"
-  Y Se muestra la seccion "Convenio específico de práctica en empresa (modalidad de titulación)"
-  Y Se muestra la seccion "Convenio específico de práctica profesional (materia)"  
-  Y Se muestra la seccion de redes sociales
-  Y Se muestra la seccion de Noticias
+  * Se muestra la seccion "Beneficios de recibir un estudiante Univalle"
+  * Se muestra la seccion "Convenio interinstitucional (marco y pasantías)"
+  * Se muestra la seccion "Convenio de cooperación marco en pasantías"
+  * Se muestra la seccion "Convenio específico de trabajo dirigido (modalidad de titulación)"
+  * Se muestra la seccion "Convenio específico de práctica en empresa (modalidad de titulación)"
+  * Se muestra la seccion "Convenio específico de práctica profesional (materia)"  
+  * Se muestra la seccion de redes sociales
+  * Se muestra la seccion de Noticias
 
 #Tab Becas e Intercambios - Renovación de Becas
 @univalle.edu 
@@ -88,10 +88,10 @@ Dado Se posa sobre el tab "Becas e Intercambios"
 Cuando Se hace click sobre el tab "Renovación de Becas"
 Entonces Deberia mostrarse la ruta "Renovación de Becas"
   Y Se muestra el titulo "RENOVACION DE BECAS GESTIÓN 1/2017"
-  Y Se muestra la seccion "RENOVACION DE BECAS GESTIÓN 1/2017"
-  Y Se muestra la seccion "REQUISITOS RENOVACIONES DE BECA"
-  Y Se muestra la seccion "FORMULARIO RENOVACIÓN DE BECA"
-  Y Se muestra la seccion "REQUISITOS SOLICITUD NUEVAS BECA"
-  Y Se muestra la seccion "FORMULARIO SOLICITUD DE BECA"
-  Y Se muestra la seccion de redes sociales
-  Y Se muestra la seccion de Noticias
+  * Se muestra la seccion "RENOVACION DE BECAS GESTIÓN 1/2017"
+  * Se muestra la seccion "REQUISITOS RENOVACIONES DE BECA"
+  * Se muestra la seccion "FORMULARIO RENOVACIÓN DE BECA"
+  * Se muestra la seccion "REQUISITOS SOLICITUD NUEVAS BECA"
+  * Se muestra la seccion "FORMULARIO SOLICITUD DE BECA"
+  * Se muestra la seccion de redes sociales
+  * Se muestra la seccion de Noticias
