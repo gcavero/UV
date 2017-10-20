@@ -8,6 +8,11 @@
 @contacto
 Característica: Contacto
 
+#Scenario para probar la conexion a la pagina
+@univalle
+Escenario: Prueba de conexion a la pagina www.univalle.edu
+Dado Se visita la pagina de univalle.edu
+
 #Tab Contacto - Medios de Contacto
 @univalle 
 Escenario: Verificacion "Medios de Contacto"

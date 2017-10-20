@@ -7,6 +7,11 @@
 @univalle @estudiantesInternacionales
 Característica: Estudiantes Internacionales 
 
+#Scenario para probar la conexion a la pagina
+@univalle
+Escenario: Prueba de conexion a la pagina www.univalle.edu
+Dado Se visita la pagina de univalle.edu
+
 #Tab Estudiantes Internacionales - Estudiar en Bolivia
 @univalle 
 Escenario: Verificacion "Estudiar en Bolivia"

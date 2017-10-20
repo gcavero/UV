@@ -8,6 +8,11 @@
 Característica: Univalle.edu Inicio
 de la pagina principal de univalle.edu
 
+#Scenario para probar la conexion a la pagina
+@univalle
+Escenario: Prueba de conexion a la pagina www.univalle.edu
+Dado Se visita la pagina de univalle.edu
+
 # Tab - La Universidad
 @univalle_tabs 
 Escenario: Verificacion de opciones para el tab 'La Universidad'

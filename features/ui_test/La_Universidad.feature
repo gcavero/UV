@@ -8,6 +8,11 @@
 @laUniversidad
 Característica: La Universidad 
 
+#Scenario para probar la conexion a la pagina
+@univalle
+Escenario: Prueba de conexion a la pagina www.univalle.edu
+Dado Se visita la pagina de univalle.edu
+
 # Antecedentes: 
 # Dado Se visita la pagina de univalle.edu
 

@@ -9,6 +9,11 @@
 @admision 
 Característica: Admision
 
+#Scenario para probar la conexion a la pagina
+@univalle
+Escenario: Prueba de conexion a la pagina www.univalle.edu
+Dado Se visita la pagina de univalle.edu
+
 #Tab Admisión - Por que estudiar en Univalle?
 @univalle
 Escenario: Verificacion de "¿Por qué Estudiar en Univalle?"

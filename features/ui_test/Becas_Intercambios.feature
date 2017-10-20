@@ -8,6 +8,11 @@
 @becasIntercambios
 Característica: Becas e Intercambios
 
+#Scenario para probar la conexion a la pagina
+@univalle
+Escenario: Prueba de conexion a la pagina www.univalle.edu
+Dado Se visita la pagina de univalle.edu
+
 #Tab Becas e Intercambios - Membresias
 @univalle 
 Escenario: Verificacion de "Membresias"

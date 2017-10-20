@@ -21,7 +21,7 @@ end
 #This Hook logs in to Hybrid application using administrator credentials.
 # Before '@univalle' do
 Before do |scenario|
-  puts "http://#{$uv_home}"  
+  puts "http://#{$uv_home}"    
   page.driver.browser.manage.window.maximize
   
   max_retries = 2
