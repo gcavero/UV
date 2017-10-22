@@ -23,6 +23,7 @@ end
 Before do |scenario|
   puts "http://#{$uv_home}"    
   page.driver.browser.manage.window.maximize
+
   
   max_retries = 2
   times_retried = 0

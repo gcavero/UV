@@ -38,7 +38,7 @@ Entonces Se muestra la seccion de redes sociales
   Y Se muestra la seccion de Noticias
 
 #Tab Admisión -  Requisitos para Estudiantes Internacionales
-@univalle @test
+@univalle
 Escenario: Verificacion de "Requisitos para Estudiantes Internacionales"
 Dado Se posa sobre el tab "Admisión"
 Cuando Se hace click sobre el tab "Requisitos para Estudiantes Internacionales"

@@ -2,3 +2,4 @@
 /reports/*.html
 /reports/*.json
 /screenshots/*.png
+/debug.log
