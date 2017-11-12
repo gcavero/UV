@@ -1,6 +1,5 @@
 require 'yaml'
 require 'report_builder'
-load 'report_builder.rake'
 config = YAML.load_file('config/env.yml')
 report_path = config['report']['report_path']
 report_title = config['report']['title']
